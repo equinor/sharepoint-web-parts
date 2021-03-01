@@ -22,4 +22,4 @@ We’ll with an MVP using a Sharepoint List as a data source, then look into eit
 
 #Power App link:
 
-https://eu.create.powerapps.com/studio/
+https://apps.powerapps.com/play/8c7571cb-979a-47e3-8182-fe8bf1b014b9?tenantId=3aa4a235-b6e2-48d5-9195-7fcf05b459b0
